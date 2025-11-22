@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Mohamed Usaidh (Mo) 👋
 
-<!--
-**Chakablaster/Chakablaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer**  
+A programmer who is enthusiastic about software engineering and artificial intelligence.
 
-Here are some ideas to get you started:
+- 🌍  Based in **Kuala Lumpur**
+- ✉️  Reach me at **realmohamed.official@gmail.com**
+- 🚀  Currently working on **COS30049 – Computing Technology Innovation Project**
+- 🧠  Currently learning **React** and **FastAPI**
+- ⚡  I’m not loyal to stacks, I’m loyal to solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Skills
+
+### 🔤 Languages
+`C++` · `C#` · `JavaScript` · `Python`
+
+### 🎨 Front-End
+`HTML5` · `CSS3` · `React` · `Tailwind CSS` · `Bootstrap`
+
+### ⚙️ Back-End
+`Node.js` · `Express` · `Python` · `FastAPI` (learning)
+
+### 🗄️ Databases
+`MongoDB` · `MySQL`
+
+### 🧰 DevTools
+`Git` · `Postman` · `Docker`
+
+---
+
+Thanks for visiting my profile! 😊
