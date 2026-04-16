@@ -5,7 +5,7 @@ A programmer who is enthusiastic about software engineering and artificial intel
 
 - 🌍  Based in **Kuala Lumpur**
 - ✉️  Reach me at **realmohamed.official@gmail.com**
-- 🚀  Currently working on **COS30049 – Computing Technology Innovation Project**
+- 🚀  Currently working on **my Final Year Project**
 - 🧠  Currently learning **React** and **FastAPI**
 - ⚡  I’m not loyal to stacks, I’m loyal to solutions.
 
