@@ -92,18 +92,17 @@ These are the details I try to keep in mind while building — the things that m
 
 ---
 
-## Connect
+## Get in Touch
+
+Open to internship opportunities, collaboration, or just a good tech conversation.
 
 <div align="center">
 
-<a href="https://github.com/Chakablaster">
-  <img src="https://img.shields.io/badge/GitHub-Chakablaster-181717?style=for-the-badge&logo=github" alt="GitHub" />
+<a href="mailto:realmohamed.official@gmail.com">
+  <img src="https://img.shields.io/badge/Email-realmohamed.official%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://www.linkedin.com/in/mohamed-usaidh-58b037188">
   <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Usaidh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:realmohamed.official@gmail.com">
-  <img src="https://img.shields.io/badge/Email-realmohamed.official%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 </div>
