@@ -111,6 +111,6 @@ Open to internship opportunities, collaboration, or just a good tech conversatio
 
 <div align="center">
 
-<b>Still learning, still building, still making things cleaner than they started.</b>
+<img src="./assets/ocean-footer.png" alt="Ocean Footer" width="100%" />
 
 </div>
