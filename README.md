@@ -42,48 +42,47 @@ I enjoy the part of software where messy ideas slowly become clear systems. For 
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=python" width="48" /><br>
-      <sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=js" width="48" /><br>
-      <sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=php" width="48" /><br>
-      <sub><b>PHP</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=html" width="48" /><br>
-      <sub><b>HTML5</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=css" width="48" /><br>
-      <sub><b>CSS3</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=react" width="48" /><br>
-      <sub><b>React</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=vite" width="48" /><br>
-      <sub><b>Vite</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" /><br>
-      <sub><b>Tailwind</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" /><br>
-      <sub><b>Bootstrap</b></sub>
-    </td>
-  </tr>
-</table>
+<img src="https://skillicons.dev/icons?i=python" width="52" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=js" width="52" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=php" width="52" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=html" width="52" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css" width="52" />
+
+<br><br>
+
+<sub><b>Python</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>JavaScript</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>PHP</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>HTML5</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>CSS3</b></sub>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=react" width="52" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vite" width="52" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=tailwind" width="52" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=bootstrap" width="52" />
+
+<br><br>
+
+<sub><b>React</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>Vite</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>Tailwind</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>Bootstrap</b></sub>
 
 </div>
 
@@ -93,48 +92,47 @@ I enjoy the part of software where messy ideas slowly become clear systems. For 
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=ts" width="48" /><br>
-      <sub><b>TypeScript</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" /><br>
-      <sub><b>Next.js</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="48" /><br>
-      <sub><b>FastAPI</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" /><br>
-      <sub><b>Node.js</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=express" width="48" /><br>
-      <sub><b>Express</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" /><br>
-      <sub><b>MySQL</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" /><br>
-      <sub><b>PostgreSQL</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" /><br>
-      <sub><b>MongoDB</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" /><br>
-      <sub><b>Docker</b></sub>
-    </td>
-  </tr>
-</table>
+<img src="https://skillicons.dev/icons?i=ts" width="52" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nextjs" width="52" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=fastapi" width="52" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nodejs" width="52" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=express" width="52" />
+
+<br><br>
+
+<sub><b>TypeScript</b></sub>
+&nbsp;&nbsp;&nbsp;
+<sub><b>Next.js</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>FastAPI</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>Node.js</b></sub>
+&nbsp;&nbsp;&nbsp;
+<sub><b>Express</b></sub>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=mysql" width="52" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postgres" width="52" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mongodb" width="52" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=docker" width="52" />
+
+<br><br>
+
+<sub><b>MySQL</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>PostgreSQL</b></sub>
+&nbsp;&nbsp;
+<sub><b>MongoDB</b></sub>
+&nbsp;&nbsp;&nbsp;
+<sub><b>Docker</b></sub>
 
 </div>
 
@@ -144,62 +142,55 @@ I enjoy the part of software where messy ideas slowly become clear systems. For 
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=git" width="48" /><br>
-      <sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=github" width="48" /><br>
-      <sub><b>GitHub</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" /><br>
-      <sub><b>VS Code</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=postman" width="48" /><br>
-      <sub><b>Postman</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=npm" width="48" /><br>
-      <sub><b>npm</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/pypi/3775A9" width="44" /><br>
-      <sub><b>pip</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=powershell" width="48" /><br>
-      <sub><b>PowerShell</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=netlify" width="48" /><br>
-      <sub><b>Netlify</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/canva/00C4CC" width="44" /><br>
-      <sub><b>Canva</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=figma" width="48" /><br>
-      <sub><b>Figma</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" width="44" /><br>
-      <sub><b>Draw.io</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=github" width="48" /><br>
-      <sub><b>GitHub Pages</b></sub>
-    </td>
-  </tr>
-</table>
+<img src="https://skillicons.dev/icons?i=git" width="52" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" width="52" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" width="52" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postman" width="52" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=npm" width="52" />
+
+<br><br>
+
+<sub><b>Git</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>GitHub</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>VS Code</b></sub>
+&nbsp;&nbsp;&nbsp;
+<sub><b>Postman</b></sub>
+&nbsp;&nbsp;&nbsp;
+<sub><b>npm</b></sub>
+
+<br><br>
+
+<img src="https://cdn.simpleicons.org/pypi/3775A9" width="48" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=powershell" width="52" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=netlify" width="52" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/canva/00C4CC" width="48" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=figma" width="52" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" width="48" />
+
+<br><br>
+
+<sub><b>pip</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>PowerShell</b></sub>
+&nbsp;&nbsp;
+<sub><b>Netlify</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>Canva</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>Figma</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>Draw.io</b></sub>
 
 </div>
 
