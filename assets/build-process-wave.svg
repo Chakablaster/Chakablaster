@@ -1,0 +1,104 @@
+<svg width="1600" height="360" viewBox="0 0 1600 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="waveGrad" x1="90" y1="0" x2="1510" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#57D3F5"/>
+      <stop offset="50%" stop-color="#9FD5F5"/>
+      <stop offset="100%" stop-color="#F2A65A"/>
+    </linearGradient>
+    <linearGradient id="nodeGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#143553"/>
+      <stop offset="100%" stop-color="#0E253B"/>
+    </linearGradient>
+    <linearGradient id="haloGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#59D1F6" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#F2A65A" stop-opacity="0.22"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-40%" width="140%" height="200%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#07131f" flood-opacity="0.28"/>
+    </filter>
+    <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .title { font: 700 32px Inter, Arial, sans-serif; fill: #F6FBFF; }
+      .desc  { font: 400 18px Inter, Arial, sans-serif; fill: #B8CBDC; }
+      .num   { font: 700 20px Inter, Arial, sans-serif; fill: #D8EDF7; }
+    </style>
+  </defs>
+
+  <!-- subtle top accent -->
+  <rect x="80" y="44" width="90" height="5" rx="2.5" fill="url(#waveGrad)"/>
+
+  <!-- wave guide line -->
+  <path d="M90 186
+           C180 150, 240 150, 320 186
+           S460 222, 550 186
+           S690 150, 780 186
+           S920 222, 1010 186
+           S1150 150, 1240 186
+           S1380 222, 1510 186" 
+        stroke="url(#waveGrad)" stroke-width="7" stroke-linecap="round" fill="none" filter="url(#softGlow)" opacity="0.95"/>
+
+  <!-- faint second wave -->
+  <path d="M90 208
+           C180 172, 240 172, 320 208
+           S460 244, 550 208
+           S690 172, 780 208
+           S920 244, 1010 208
+           S1150 172, 1240 208
+           S1380 244, 1510 208" 
+        stroke="#214C6D" stroke-width="2" stroke-linecap="round" fill="none" opacity="0.35"/>
+
+  <!-- halos -->
+  <circle cx="140" cy="166" r="47" fill="url(#haloGrad)" opacity="0.55"/>
+  <circle cx="455" cy="206" r="47" fill="url(#haloGrad)" opacity="0.52"/>
+  <circle cx="770" cy="166" r="47" fill="url(#haloGrad)" opacity="0.55"/>
+  <circle cx="1085" cy="206" r="47" fill="url(#haloGrad)" opacity="0.52"/>
+  <circle cx="1400" cy="166" r="47" fill="url(#haloGrad)" opacity="0.55"/>
+
+  <!-- nodes -->
+  <g filter="url(#shadow)">
+    <g transform="translate(140 166)">
+      <circle r="34" fill="url(#nodeGrad)" stroke="#8EDCFA" stroke-width="2.5"/>
+      <text class="num" text-anchor="middle" dominant-baseline="middle">01</text>
+    </g>
+    <g transform="translate(455 206)">
+      <circle r="34" fill="url(#nodeGrad)" stroke="#98D9F7" stroke-width="2.5"/>
+      <text class="num" text-anchor="middle" dominant-baseline="middle">02</text>
+    </g>
+    <g transform="translate(770 166)">
+      <circle r="34" fill="url(#nodeGrad)" stroke="#A6D7F2" stroke-width="2.5"/>
+      <text class="num" text-anchor="middle" dominant-baseline="middle">03</text>
+    </g>
+    <g transform="translate(1085 206)">
+      <circle r="34" fill="url(#nodeGrad)" stroke="#C0D0E8" stroke-width="2.5"/>
+      <text class="num" text-anchor="middle" dominant-baseline="middle">04</text>
+    </g>
+    <g transform="translate(1400 166)">
+      <circle r="34" fill="url(#nodeGrad)" stroke="#F0B57A" stroke-width="2.5"/>
+      <text class="num" text-anchor="middle" dominant-baseline="middle">05</text>
+    </g>
+  </g>
+
+  <!-- labels -->
+  <g>
+    <text class="title" x="140" y="98" text-anchor="middle">Idea</text>
+    <text class="desc" x="140" y="287" text-anchor="middle">Start with the rough thought</text>
+
+    <text class="title" x="455" y="128" text-anchor="middle">Understand</text>
+    <text class="desc" x="455" y="327" text-anchor="middle">Find the real problem</text>
+
+    <text class="title" x="770" y="98" text-anchor="middle">Break Down</text>
+    <text class="desc" x="770" y="287" text-anchor="middle">Split it into clear parts</text>
+
+    <text class="title" x="1085" y="128" text-anchor="middle">Build</text>
+    <text class="desc" x="1085" y="327" text-anchor="middle">Make the first version work</text>
+
+    <text class="title" x="1400" y="98" text-anchor="middle">Refine</text>
+    <text class="desc" x="1400" y="287" text-anchor="middle">Clean it up and improve</text>
+  </g>
+</svg>
