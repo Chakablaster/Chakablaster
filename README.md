@@ -62,55 +62,7 @@ I enjoy the part of software where messy ideas slowly become clear systems. For 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git" width="52" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github" width="52" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=vscode" width="52" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=postman" width="52" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=npm" width="52" />
-
-<br><br>
-
-<sub><b>Git</b></sub>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<sub><b>GitHub</b></sub>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<sub><b>VS Code</b></sub>
-&nbsp;&nbsp;&nbsp;
-<sub><b>Postman</b></sub>
-&nbsp;&nbsp;&nbsp;
-<sub><b>npm</b></sub>
-
-<br><br>
-
-<img src="https://cdn.simpleicons.org/pypi/3775A9" width="48" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=powershell" width="52" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=netlify" width="52" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/canva/00C4CC" width="48" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=figma" width="52" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" width="48" />
-
-<br><br>
-
-<sub><b>pip</b></sub>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<sub><b>PowerShell</b></sub>
-&nbsp;&nbsp;
-<sub><b>Netlify</b></sub>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<sub><b>Canva</b></sub>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<sub><b>Figma</b></sub>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<sub><b>Draw.io</b></sub>
+<img src="./assets/tools-i-use.png" alt="Tools I Use" width="100%" />
 
 </div>
 
