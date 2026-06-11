@@ -8,26 +8,10 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="180">
-      <b>CS Student</b><br>
-      <sub>Learning by building</sub>
-    </td>
-    <td align="center" width="180">
-      <b>Problem Solver</b><br>
-      <sub>Breaking ideas down</sub>
-    </td>
-    <td align="center" width="180">
-      <b>Creative Builder</b><br>
-      <sub>Making things cleaner</sub>
-    </td>
-    <td align="center" width="180">
-      <b>Maldivian</b><br>
-      <sub>Based in Malaysia</sub>
-    </td>
-  </tr>
-</table>
+<img src="https://img.shields.io/badge/CS%20Student-Learning%20by%20building-0F172A?style=for-the-badge&labelColor=1E293B" />
+<img src="https://img.shields.io/badge/Problem%20Solver-Breaking%20ideas%20down-0F172A?style=for-the-badge&labelColor=1E293B" />
+<img src="https://img.shields.io/badge/Creative%20Builder-Making%20things%20cleaner-0F172A?style=for-the-badge&labelColor=1E293B" />
+<img src="https://img.shields.io/badge/Maldivian-Based%20in%20Malaysia-0F172A?style=for-the-badge&labelColor=1E293B" />
 
 </div>
 
