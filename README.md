@@ -1,127 +1,214 @@
 <div align="center">
 
-# Hey, I'm Mohamed Usaidh — Mo 👋
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Software+Engineering+Student;React+%2B+FastAPI+Learner;Building+solutions%2C+not+just+stacks" alt="Typing SVG" />
-
-<p>
-  <a href="mailto:realmohamed.official@gmail.com">
-    <img src="https://img.shields.io/badge/Email-realmohamed.official%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <img src="https://img.shields.io/badge/Kuala%20Lumpur-Malaysia-00BFA6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Focus-Final%20Year%20Project-7C3AED?style=for-the-badge&logo=rocket&logoColor=white" alt="Current Focus" />
-</p>
+<img src="./assets/github-banner.png" alt="Mohamed Usaidh GitHub Banner" width="100%" />
 
 </div>
 
----
-
-## 🧩 About Me
-
-```txt
-I build practical software with clean logic, useful interfaces, and a problem-solving mindset.
-I’m currently sharpening my full-stack skills while working on my Final Year Project.
-```
-
-- 🌍 Based in **Kuala Lumpur**
-- 🚀 Currently working on **my Final Year Project**
-- 🧠 Currently learning **React** and **FastAPI**
-- 🤖 Interested in **software engineering**, **AI**, and real-world problem solving
-- ⚡ Motto: **I’m not loyal to stacks, I’m loyal to solutions.**
-
----
-
-## 🛠 Tech Stack
+<br>
 
 <div align="center">
 
-### Languages
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Front-End
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Back-End & Databases
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
-
----
-
-## 🚧 Currently Building
-
 <table>
   <tr>
-    <td width="50%">
-      <h3>🎓 Final Year Project</h3>
-      <p>Designing, developing, testing, and improving a real software project from idea to implementation.</p>
+    <td align="center" width="180">
+      <b>CS Student</b><br>
+      <sub>Learning by building</sub>
     </td>
-    <td width="50%">
-      <h3>🌱 Skill Growth</h3>
-      <p>Leveling up in React, FastAPI, API design, full-stack architecture, and cleaner development workflows.</p>
+    <td align="center" width="180">
+      <b>Problem Solver</b><br>
+      <sub>Breaking ideas down</sub>
+    </td>
+    <td align="center" width="180">
+      <b>Creative Builder</b><br>
+      <sub>Making things cleaner</sub>
+    </td>
+    <td align="center" width="180">
+      <b>Maldivian</b><br>
+      <sub>Based in Malaysia</sub>
     </td>
   </tr>
 </table>
 
+</div>
+
+<br>
+
+## Hey, I'm Mohamed Usaidh
+
+Mo for short.
+
+I’m a CS student from the Maldives, currently based in Kuala Lumpur, Malaysia. I like taking small ideas, breaking them apart, and shaping them into software that feels cleaner, simpler, and more useful than where it started.
+
+I’m still learning, still experimenting, and still figuring things out one build at a time.
+
 ---
 
-## 📊 GitHub Snapshot
+## The Way I Build
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Chakablaster&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Chakablaster&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<table>
+  <tr>
+    <td align="center" width="160">
+      <b>Idea</b><br>
+      <sub>Start with the rough thought</sub>
+    </td>
+    <td align="center" width="160">
+      <b>Understand</b><br>
+      <sub>Find the real problem</sub>
+    </td>
+    <td align="center" width="160">
+      <b>Break Down</b><br>
+      <sub>Split it into clear parts</sub>
+    </td>
+    <td align="center" width="160">
+      <b>Build</b><br>
+      <sub>Make the first version work</sub>
+    </td>
+    <td align="center" width="160">
+      <b>Refine</b><br>
+      <sub>Clean it up and improve</sub>
+    </td>
+  </tr>
+</table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chakablaster&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+I enjoy the part of software where messy ideas slowly become clear systems. For me, good software is not only about making something work. It should also be understandable, useful, and easier to improve later.
+
+---
+
+## Toolkit
+
+### Core Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-1E1E2E?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-712CF9?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 </div>
 
 ---
 
-## 🧠 Developer Mindset
-
-```js
-const mo = {
-  role: "Full Stack Developer",
-  location: "Kuala Lumpur",
-  currentlyLearning: ["React", "FastAPI"],
-  interests: ["Software Engineering", "AI", "Problem Solving"],
-  mindset: "Solutions over stacks",
-};
-```
-
----
-
-## 🤝 Connect With Me
+### Currently Learning
 
 <div align="center">
 
-<a href="mailto:realmohamed.official@gmail.com">
-  <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
-</a>
-<a href="https://github.com/Chakablaster">
-  <img src="https://img.shields.io/badge/GitHub-Chakablaster-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+<table>
+  <tr>
+    <td align="center" width="180"><b>TypeScript</b></td>
+    <td align="center" width="180"><b>Next.js</b></td>
+    <td align="center" width="180"><b>FastAPI</b></td>
+    <td align="center" width="180"><b>Node.js</b></td>
+  </tr>
+  <tr>
+    <td align="center" width="180"><b>Express.js</b></td>
+    <td align="center" width="180"><b>Docker</b></td>
+    <td align="center" width="180"><b>MySQL</b></td>
+    <td align="center" width="180"><b>PostgreSQL</b></td>
+  </tr>
+  <tr>
+    <td align="center" width="180"><b>MongoDB</b></td>
+    <td align="center" width="180"><b>Testing Basics</b></td>
+    <td align="center" width="180"><b>Cybersecurity Basics</b></td>
+    <td align="center" width="180"><b>Full-Stack Patterns</b></td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+### Tools I Use
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="160"><b>Git</b></td>
+    <td align="center" width="160"><b>GitHub</b></td>
+    <td align="center" width="160"><b>VS Code</b></td>
+    <td align="center" width="160"><b>Postman</b></td>
+  </tr>
+  <tr>
+    <td align="center" width="160"><b>npm</b></td>
+    <td align="center" width="160"><b>pip</b></td>
+    <td align="center" width="160"><b>PowerShell</b></td>
+    <td align="center" width="160"><b>Command Line</b></td>
+  </tr>
+  <tr>
+    <td align="center" width="160"><b>Netlify</b></td>
+    <td align="center" width="160"><b>GitHub Pages</b></td>
+    <td align="center" width="160"><b>Microsoft Office</b></td>
+    <td align="center" width="160"><b>Google Workspace</b></td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+### Design / Creative Tools
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="170"><b>Canva</b></td>
+    <td align="center" width="170"><b>Figma</b></td>
+    <td align="center" width="170"><b>Draw.io</b></td>
+    <td align="center" width="170"><b>Wireframing</b></td>
+  </tr>
+  <tr>
+    <td align="center" width="170"><b>Prototyping</b></td>
+    <td align="center" width="170"><b>Layout Design</b></td>
+    <td align="center" width="170"><b>README Design</b></td>
+    <td align="center" width="170"><b>Presentation Design</b></td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+### Concepts I Care About
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="180"><b>Clean Code</b></td>
+    <td align="center" width="180"><b>Problem Solving</b></td>
+    <td align="center" width="180"><b>Database Design</b></td>
+    <td align="center" width="180"><b>API Design</b></td>
+  </tr>
+  <tr>
+    <td align="center" width="180"><b>Authentication</b></td>
+    <td align="center" width="180"><b>Code Maintainability</b></td>
+    <td align="center" width="180"><b>Requirements Analysis</b></td>
+    <td align="center" width="180"><b>UI Consistency</b></td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Chakablaster-181717?style=for-the-badge&logo=github)](https://github.com/Chakablaster)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Usaidh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-usaidh-58b037188)
+[![Email](https://img.shields.io/badge/Email-realmohamed.official%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:realmohamed.official@gmail.com)
 
 </div>
 
@@ -129,8 +216,6 @@ const mo = {
 
 <div align="center">
 
-### Thanks for visiting my profile ✨
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer wave" />
+<b>Still learning, still building, still making things cleaner than they started.</b>
 
 </div>
