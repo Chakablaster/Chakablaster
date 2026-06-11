@@ -52,47 +52,7 @@ I enjoy the part of software where messy ideas slowly become clear systems. For 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts" width="52" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=nextjs" width="52" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=fastapi" width="52" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=nodejs" width="52" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=express" width="52" />
-
-<br><br>
-
-<sub><b>TypeScript</b></sub>
-&nbsp;&nbsp;&nbsp;
-<sub><b>Next.js</b></sub>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<sub><b>FastAPI</b></sub>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<sub><b>Node.js</b></sub>
-&nbsp;&nbsp;&nbsp;
-<sub><b>Express</b></sub>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=mysql" width="52" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=postgres" width="52" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mongodb" width="52" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=docker" width="52" />
-
-<br><br>
-
-<sub><b>MySQL</b></sub>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<sub><b>PostgreSQL</b></sub>
-&nbsp;&nbsp;
-<sub><b>MongoDB</b></sub>
-&nbsp;&nbsp;&nbsp;
-<sub><b>Docker</b></sub>
+<img src="./assets/currently-learning.png" alt="Currently Learning" width="100%" />
 
 </div>
 
