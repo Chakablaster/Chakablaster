@@ -28,30 +28,7 @@ I’m still learning, still experimenting, and still figuring things out one bui
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="160">
-      <b>Idea</b><br>
-      <sub>Start with the rough thought</sub>
-    </td>
-    <td align="center" width="160">
-      <b>Understand</b><br>
-      <sub>Find the real problem</sub>
-    </td>
-    <td align="center" width="160">
-      <b>Break Down</b><br>
-      <sub>Split it into clear parts</sub>
-    </td>
-    <td align="center" width="160">
-      <b>Build</b><br>
-      <sub>Make the first version work</sub>
-    </td>
-    <td align="center" width="160">
-      <b>Refine</b><br>
-      <sub>Clean it up and improve</sub>
-    </td>
-  </tr>
-</table>
+<img src="./assets/build-process-wave.svg" alt="The Way I Build" width="100%" />
 
 </div>
 
