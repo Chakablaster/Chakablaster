@@ -42,47 +42,7 @@ I enjoy the part of software where messy ideas slowly become clear systems. For 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python" width="52" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=js" width="52" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=php" width="52" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=html" width="52" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=css" width="52" />
-
-<br><br>
-
-<sub><b>Python</b></sub>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<sub><b>JavaScript</b></sub>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<sub><b>PHP</b></sub>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<sub><b>HTML5</b></sub>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<sub><b>CSS3</b></sub>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=react" width="52" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=vite" width="52" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=tailwind" width="52" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=bootstrap" width="52" />
-
-<br><br>
-
-<sub><b>React</b></sub>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<sub><b>Vite</b></sub>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<sub><b>Tailwind</b></sub>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<sub><b>Bootstrap</b></sub>
+<img src="./assets/core-stack-icons.svg" alt="Core Stack" width="100%" />
 
 </div>
 
