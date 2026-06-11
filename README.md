@@ -80,24 +80,13 @@ I care about how ideas are presented, not just how they are built. This section 
 
 ---
 
-### Concepts I Care About
+### The Details I Care About
+
+These are the details I try to keep in mind while building — the things that make software clearer, stronger, easier to maintain, and more useful beyond the first version.
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="180"><b>Clean Code</b></td>
-    <td align="center" width="180"><b>Problem Solving</b></td>
-    <td align="center" width="180"><b>Database Design</b></td>
-    <td align="center" width="180"><b>API Design</b></td>
-  </tr>
-  <tr>
-    <td align="center" width="180"><b>Authentication</b></td>
-    <td align="center" width="180"><b>Code Maintainability</b></td>
-    <td align="center" width="180"><b>Requirements Analysis</b></td>
-    <td align="center" width="180"><b>Full-Stack Structure</b></td>
-  </tr>
-</table>
+<img src="./assets/the-details-i-care-about.png" alt="The Details I Care About" width="100%" />
 
 </div>
 
