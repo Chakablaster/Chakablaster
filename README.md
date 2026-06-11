@@ -68,24 +68,13 @@ I enjoy the part of software where messy ideas slowly become clear systems. For 
 
 ---
 
-### Creative Workflow
+### Visual & Documentation Skills
+
+I care about how ideas are presented, not just how they are built. This section reflects the design, structure, and communication skills I use to make projects easier to understand, use, and share.
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="170"><b>Wireframing</b></td>
-    <td align="center" width="170"><b>Prototyping</b></td>
-    <td align="center" width="170"><b>Layout Design</b></td>
-    <td align="center" width="170"><b>README Design</b></td>
-  </tr>
-  <tr>
-    <td align="center" width="170"><b>Presentation Design</b></td>
-    <td align="center" width="170"><b>UI Consistency</b></td>
-    <td align="center" width="170"><b>Technical Writing</b></td>
-    <td align="center" width="170"><b>Documentation</b></td>
-  </tr>
-</table>
+<img src="./assets/creative-workflow.png" alt="Visual and Documentation Skills" width="100%" />
 
 </div>
 
