@@ -42,15 +42,7 @@ I enjoy the part of software where messy ideas slowly become clear systems. For 
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=AEB2D5)
-![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css&logoColor=1572B6)
-![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-111827?style=for-the-badge&logo=vite&logoColor=FFD62E)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-111827?style=for-the-badge&logo=bootstrap&logoColor=B197FC)
+[![Core Stack](https://skillicons.dev/icons?i=python,js,php,html,css,react,vite,tailwind,bootstrap&perline=5)](https://skillicons.dev)
 
 </div>
 
@@ -60,26 +52,7 @@ I enjoy the part of software where messy ideas slowly become clear systems. For 
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="180"><b>TypeScript</b></td>
-    <td align="center" width="180"><b>Next.js</b></td>
-    <td align="center" width="180"><b>FastAPI</b></td>
-    <td align="center" width="180"><b>Node.js</b></td>
-  </tr>
-  <tr>
-    <td align="center" width="180"><b>Express.js</b></td>
-    <td align="center" width="180"><b>Docker</b></td>
-    <td align="center" width="180"><b>MySQL</b></td>
-    <td align="center" width="180"><b>PostgreSQL</b></td>
-  </tr>
-  <tr>
-    <td align="center" width="180"><b>MongoDB</b></td>
-    <td align="center" width="180"><b>Testing Basics</b></td>
-    <td align="center" width="180"><b>Cybersecurity Basics</b></td>
-    <td align="center" width="180"><b>Full-Stack Patterns</b></td>
-  </tr>
-</table>
+[![Currently Learning](https://skillicons.dev/icons?i=ts,nextjs,fastapi,nodejs,express,mysql,postgres,mongodb,docker&perline=5)](https://skillicons.dev)
 
 </div>
 
@@ -89,26 +62,7 @@ I enjoy the part of software where messy ideas slowly become clear systems. For 
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="160"><b>Git</b></td>
-    <td align="center" width="160"><b>GitHub</b></td>
-    <td align="center" width="160"><b>VS Code</b></td>
-    <td align="center" width="160"><b>Postman</b></td>
-  </tr>
-  <tr>
-    <td align="center" width="160"><b>npm</b></td>
-    <td align="center" width="160"><b>pip</b></td>
-    <td align="center" width="160"><b>PowerShell</b></td>
-    <td align="center" width="160"><b>Command Line</b></td>
-  </tr>
-  <tr>
-    <td align="center" width="160"><b>Netlify</b></td>
-    <td align="center" width="160"><b>GitHub Pages</b></td>
-    <td align="center" width="160"><b>Microsoft Office</b></td>
-    <td align="center" width="160"><b>Google Workspace</b></td>
-  </tr>
-</table>
+[![Tools I Use](https://skillicons.dev/icons?i=git,github,vscode,postman,npm,figma&perline=6)](https://skillicons.dev)
 
 </div>
 
