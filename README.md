@@ -8,10 +8,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/CS%20Student-Learning%20by%20building-0F172A?style=for-the-badge&labelColor=1E293B" />
-<img src="https://img.shields.io/badge/Problem%20Solver-Breaking%20ideas%20down-0F172A?style=for-the-badge&labelColor=1E293B" />
-<img src="https://img.shields.io/badge/Creative%20Builder-Making%20things%20cleaner-0F172A?style=for-the-badge&labelColor=1E293B" />
-<img src="https://img.shields.io/badge/Maldivian-Based%20in%20Malaysia-0F172A?style=for-the-badge&labelColor=1E293B" />
+<img src="./assets/identity-cards.svg" alt="Identity Cards" width="100%" />
 
 </div>
 
