@@ -42,7 +42,7 @@ I enjoy the part of software where messy ideas slowly become clear systems. For 
 
 <div align="center">
 
-<img src="./assets/core-stack-icons.svg" alt="Core Stack" width="100%" />
+<img src="./assets/core-stack.png" alt="Core Stack" width="100%" />
 
 </div>
 
